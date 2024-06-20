@@ -18,6 +18,9 @@ O interessante é que não precisamos de mais do que o bloco de notas (Notepad) 
 
 Você pode conferir alguns pequenos projetos já desenvolvidos baixando os seguintes arquivos:
 
-[Tela de Loop-Infinito](https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/README.md#tela-de-loop-infinito)
-[Teste inicial de história interativa/simulador Joãozinho e Margarida](https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/README.md#teste-inicial-de-história-interativasimulador-joãozinho-e-margarida)
-[Todas as possibilidades de combinações de parâmetros (grupos e seus cenários) no VBS](https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/README.md#todas-as-possibilidades-de-combinações-de-parâmetros-grupos-e-seus-cenários-no-vbs)
+Tela de Loop-Infinito:
+  https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/loop-infinito.vbs
+Teste inicial de história interativa/simulador Joãozinho e Margarida:
+  https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/teste-historia-interativa-Jo%C3%A3ozinhoEMargaridaAJornadaNaFlorestaEncantada.vbs
+Todas as possibilidades de combinações de parâmetros (grupos e seus cenários) no VBS:
+  https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/teste-todos-os-grupos.vbs
