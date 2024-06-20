@@ -4,7 +4,7 @@ Um dos aspectos mais legais do VBS é que tudo começa de forma muito simples!
 
 Exemplo de uma `msgbox` (caixa de mensagem) simples em VBScript:
 
-```vbscript
+(vbscript):
 msgbox "olá mundo", 2+16+256+4096, "ATENÇÃO"
 
 
