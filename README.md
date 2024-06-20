@@ -24,3 +24,15 @@ Teste inicial de história interativa/simulador Joãozinho e Margarida:
   https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/teste-historia-interativa-Jo%C3%A3ozinhoEMargaridaAJornadaNaFlorestaEncantada.vbs
 Todas as possibilidades de combinações de parâmetros (grupos e seus cenários) no VBS:
   https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/teste-todos-os-grupos.vbs
+
+  Tela de Loop-Infinito
+Teste inicial de história interativa/simulador Joãozinho e Margarida
+Todas as possibilidades de combinações de parâmetros (grupos e seus cenários) no VBS
+
+Projetos Disponíveis
+Você pode conferir alguns pequenos projetos já desenvolvidos baixando os seguintes arquivos:
+
+Tela de Loop-Infinito
+Teste inicial de história interativa/simulador Joãozinho e Margarida
+Todas as possibilidades de combinações de parâmetros (grupos e seus cenários) no VBS
+
