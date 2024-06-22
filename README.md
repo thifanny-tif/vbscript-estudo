@@ -26,7 +26,7 @@ Você pode conferir alguns pequenos projetos já desenvolvidos baixando os segui
   https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/teste-todos-os-grupos.vbs
 - Cadastro:
   https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/cadastro.vbs
-- Cauculadora:
+- Calculadora:
   https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/cauculadora.vbs
 
 ## Estudos Disponíveis
