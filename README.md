@@ -27,4 +27,16 @@ Você pode conferir alguns pequenos projetos já desenvolvidos baixando os segui
 - Cadastro:
   https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/cadastro.vbs
 - Cauculadora:
-  https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/cauculadora.vbs 
+  https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/cauculadora.vbs
+
+## Estudos Disponíveis
+- Explorando a Função MSGBOX em VBScript:
+  https://github.com/thifanny-tif/vbscript-estudo-projetos/commit/0a1a2953ead8d238fc130de0a40f4b8a496453bb
+- Explorando a Função INPUTBOX em VBScript:
+  https://github.com/thifanny-tif/vbscript-estudo-projetos/commit/e70883528b897151e2cf7840b39ae8b9377b3fbc
+- Operações Aritméticas: InputBox e MsgBox:
+  https://github.com/thifanny-tif/vbscript-estudo-projetos/commit/75a310c06d339402b2f2186bdc39c57099862b7f
+
+
+
+
