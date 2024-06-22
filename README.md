@@ -27,7 +27,7 @@ Você pode conferir alguns pequenos projetos já desenvolvidos baixando os segui
 - Cadastro:
   https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/cadastro.vbs
 - Calculadora:
-  https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/cauculadora.vbs
+  https://github.com/thifanny-tif/vbscript-estudo-projetos/blob/main/calculadora.vbs
 
 ## Estudos Disponíveis
 - Explorando a Função MSGBOX em VBScript:
