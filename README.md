@@ -1,4 +1,4 @@
-# Estudo de VBScript
+# VBScript
 
 Um dos aspectos mais legais do VBS é que tudo começa de forma muito simples!
 
